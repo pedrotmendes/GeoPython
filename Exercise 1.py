@@ -23,3 +23,6 @@ print(type(ice_cream_rating), type(first_name), type(happiness_rating))
 print('My name is', first_name, last_name, 'and I give eating ice cream a score of', ice_cream_rating, 'out of 10!')
 print('I am', first_name, last_name, 'and my sleeping enjoyment is', sleeping_rating, '/ 10')
 print('Based on the factors above, my happiness rating is', happiness_rating, 'out of 10, or', perc, '%')
+
+
+#12345
