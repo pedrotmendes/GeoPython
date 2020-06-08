@@ -30,3 +30,8 @@ print('Based on the factors above, my happiness rating is', happiness_rating, 'o
 dd
 dsfsdfdsf
 dfdffsd
+sss
+data1d
+data1
+data1
+
